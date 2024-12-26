@@ -20,13 +20,13 @@ The Velis Brightness Tuner is an open-source tool designed to help users customi
 
 ## Usage
 
-1. Open the Brightness Curve Editor application.
+1. Open the Brightness Curve Editor application.  
 ![Image 1](https://github.com/user-attachments/assets/5275f849-d1bb-4dc0-b39e-4a97fc7a4ea7)
-3. Use the mouse or keyboard to adjust the brightness curve.
-4. Preview and fine-tune the curve as needed.
-5. Export the settings to the Velis Auto Brightness app.
-![Image 2](https://github.com/user-attachments/assets/25854095-9cbb-4744-a589-3ddcd3361ec4)
-![Image 3](https://github.com/user-attachments/assets/f74677cd-c6da-404b-abc2-f97f543d9f2d)
+2. Use the mouse or keyboard to adjust the brightness curve.  
+3. Preview and fine-tune the curve as needed.  
+4. Export the settings to the Velis Auto Brightness app.  
+   <img src="https://github.com/user-attachments/assets/25854095-9cbb-4744-a589-3ddcd3361ec4" alt="Image 2" width="25%">
+   <img src="https://github.com/user-attachments/assets/f74677cd-c6da-404b-abc2-f97f543d9f2d" alt="Image 3" width="25%">
 
 ## System Requirements
 
